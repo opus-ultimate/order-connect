@@ -1,8 +1,7 @@
 {
-  "name": "order-connect",
-  "version": "1.0.0",
+  "name": "order-connect-server",
+  "version": "0.0.0",
   "description": "An application for order management for small industries that outsource machining orders to small machine shops.",
-  "main": "index.js",
   "devDependencies": {
     "@commitlint/cli": "^20.2.0",
     "@commitlint/config-conventional": "^20.2.0",
@@ -15,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/opus-ultimate/order-connect.git"
+    "url": "git+https://github.com/opus-ultimate/order-connect-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/opus-ultimate/order-connect/issues"
+    "url": "https://github.com/opus-ultimate/order-connect-server/issues"
   },
-  "homepage": "https://github.com/opus-ultimate/order-connect#readme",
+  "homepage": "https://github.com/opus-ultimate/order-connect-server#readme",
   "scripts": {
     "prepare": "husky"
   }
